@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chef Delight</string>
+    <string name="privacy_policy_url">https://makesdigi.com/recipeApp/privacy.html</string>
+    <string name="action_settings">https://makesdigi.com/</string>
+
+        <!-- Add other existing strings here -->
+        <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">First Fragment</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.Myrecipeap" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/pink_dark</item>
+        <item name="colorAccent">@color/pink_accent</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
